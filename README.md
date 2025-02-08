@@ -10,7 +10,7 @@
 
 <div style="background: linear-gradient(145deg, #00A86B, #028a2b); padding: 40px 40px; border-radius: 20px; box-shadow: 0 15px 50px rgba(0, 0, 0, 0.15); text-align:center; color: #fff; max-width: 800px; margin: 20px auto; transition: all 0.3s ease-in-out;">
   <h2 style="font-size: 30px; font-weight: bold;">Hey there! I'm Kimlong</h2>
-  <p style="font-size: 18px;">A Full Stack Developer with a deep passion for creating innovative solutions. Here's a little about what I do:</p>
+  <p style="font-size: 18px;width:100%">A Full Stack Developer with a deep passion for creating innovative solutions. Here's a little about what I do:</p>
   
   <ul style="list-style: none; padding: 0;">
     <li>🔭 <strong>Currently working on:</strong> Web Development & API Design</li>
