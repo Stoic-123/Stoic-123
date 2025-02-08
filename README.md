@@ -19,7 +19,7 @@
 ## 🎨 GIF Animation
 
 <div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stoic-123/stoic-123/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;width:100%;display:flex;justify-content: center">
+  <img alt="Custom GIF" src="./Mercenary Garage Blog Custom Motorcycle Design Kirokaze Tired Now 8 Bit Anime Cyberpunk GIF.webp" style="visibility:visible;max-width:100%;width:100%;display:flex;justify-content:center" />
 </div>
 
 ---
