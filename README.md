@@ -45,7 +45,7 @@
 ## 🎯 Contribution Graph
 
 <div align="center">
-<img alt="github contribution grid snake animation" src="github-user-contribution.svg" style="visibility:visible;max-width:100%;width:100%;display:flex;justify-content: center"></div>
+<img alt="github contribution grid snake animation" src="./snack/github-user-contribution.svg" style="visibility:visible;max-width:100%;width:100%;display:flex;justify-content: center"></div>
 
 ---
 
