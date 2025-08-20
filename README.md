@@ -34,7 +34,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; padding-top: 30px; transition: transform 0.3s ease-in-out;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,nodejs,express,bootstrap,figma,photoshop" style="max-width:100%; border-radius:15px; padding: 10px; background: #f5f5f5; box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,react,materialui,nodejs,express,mysql,docker,bun,electron,git,figma,photoshop" style="max-width:100%; border-radius:15px; padding: 10px; background: #f5f5f5; box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
 ---
